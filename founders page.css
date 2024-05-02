@@ -147,7 +147,8 @@ body
 .im1
 {position: absolute;
     top: 600px;
-    left: 1150px;
+    left: 1200px;
+    border-radius: 200px;
 }
 .content1
 { width: 1450px;
@@ -243,15 +244,15 @@ transform: translateY(40px);
 .im2
 {position: absolute;
     top: 1070px;
-    left: 0px;
+    left: 90px;
  
-    border-radius: 100px;
+    border-radius: 200px;
 
 }
 .im3
 {position: absolute;
     top: 1590px;
-    left: 1150px;
+    left: 1180px;
 }
 .content3
 { width: 1450px;
