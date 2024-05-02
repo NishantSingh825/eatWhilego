@@ -62,3 +62,11 @@ document.querySelectorAll(".elem").forEach(function (elem) {
       });
     });
   });
+  function toggleMenu() {
+    const sidenav = document.getElementById("sidenav");
+    if (sidenav.style.right === "0px") {
+        sidenav.style.right = "-250px";
+    } else {
+        sidenav.style.right = "0px";
+    }
+}
